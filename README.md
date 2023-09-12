@@ -1,0 +1,2 @@
+# izmeginajums
+šis ir izmēģinājums.
